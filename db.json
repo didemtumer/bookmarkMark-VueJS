@@ -1,0 +1,16 @@
+{
+  "bookmarks": [
+    {
+      "title": "Vue2 Dokümantasyonu",
+      "description": "Vue 2 Documentation 454356",
+      "url": "https://www.vuejs.org",
+      "id": 2
+    },
+    {
+      "title": "Vue 3 gggg",
+      "description": "Bu vu3 bi harika dostum",
+      "url": "www.vue3.org",
+      "id": 3
+    }
+  ]
+}
